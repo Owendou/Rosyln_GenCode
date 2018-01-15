@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/LQTechUsings/Unity3d_Open_proj/!svn/ver/4542/trunk/cs2lua+xlua/CodeGen/Source
+END
+ResolveReferenceByRosyln.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/LQTechUsings/Unity3d_Open_proj/!svn/ver/4525/trunk/cs2lua+xlua/CodeGen/Source/ResolveReferenceByRosyln.cs
+END
+ReferenceChecker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/LQTechUsings/Unity3d_Open_proj/!svn/ver/4039/trunk/cs2lua+xlua/CodeGen/Source/ReferenceChecker.cs
+END
+CodeGenImpl.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/LQTechUsings/Unity3d_Open_proj/!svn/ver/4542/trunk/cs2lua+xlua/CodeGen/Source/CodeGenImpl.cs
+END
+Program.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/LQTechUsings/Unity3d_Open_proj/!svn/ver/4369/trunk/cs2lua+xlua/CodeGen/Source/Program.cs
+END
+IResolveReference.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/LQTechUsings/Unity3d_Open_proj/!svn/ver/4525/trunk/cs2lua+xlua/CodeGen/Source/IResolveReference.cs
+END
+ResolveReferenceByManual.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/LQTechUsings/Unity3d_Open_proj/!svn/ver/4525/trunk/cs2lua+xlua/CodeGen/Source/ResolveReferenceByManual.cs
+END
+CodeGenConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/LQTechUsings/Unity3d_Open_proj/!svn/ver/4542/trunk/cs2lua+xlua/CodeGen/Source/CodeGenConfig.cs
+END
